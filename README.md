@@ -6,6 +6,7 @@ Excel is a great tool for analyzing data. It can handle large datasets, calculat
 The goal of this project is to provide a data-driven approach to road accident prevention. We hope that the insights we gain from this project will help make our roads safer.
 
 Here are some of the specific things we will do in this project:
+
 🔘Collect road accident data from a variety of sources.
 🔘Clean and prepare the data for analysis.
 🔘Use Excel to analyze the data and identify patterns.
