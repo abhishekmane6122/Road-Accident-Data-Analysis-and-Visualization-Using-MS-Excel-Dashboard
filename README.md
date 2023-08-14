@@ -8,10 +8,15 @@ The goal of this project is to provide a data-driven approach to road accident p
 Here are some of the specific things we will do in this project:
 
 🔘Collect road accident data from a variety of sources.
+
 🔘Clean and prepare the data for analysis.
+
 🔘Use Excel to analyze the data and identify patterns.
+
 🔘Identify factors that contribute to accidents.
+
 🔘Explore potential solutions to road accidents.
+
 🔘Create visualizations of the data to communicate our findings.
 
 We believe that this project will make a valuable contribution to road safety. We hope that the insights we gain from this project will help policymakers and other stakeholders make informed decisions about how to make our roads safer.
