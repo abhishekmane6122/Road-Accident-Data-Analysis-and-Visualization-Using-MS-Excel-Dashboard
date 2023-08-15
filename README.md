@@ -1,4 +1,7 @@
 # Road-Accident-Data-Analysis-and-Visualization-Using-MS-Excel-Dashboard
+
+Road Accident Analysis using Excel
+
 The Road Accident Analysis using Excel project is about using Excel to understand road accidents better. Road accidents are a big problem all over the world, and this project wants to help us figure out why they happen and how we can prevent them.
 
 Excel is a great tool for analyzing data. It can handle large datasets, calculate statistics, and create charts and graphs. This project will use Excel to process road accident data and look for patterns. We will also use Excel to identify factors that contribute to accidents and explore potential solutions.
@@ -54,7 +57,7 @@ We believe that this project will make a valuable contribution to road safety. W
 
 🔘Adding two new features: "month" and "year", which were extracted from the "date" column.
 
-These steps were essential to making the data ready for analysis. By cleaning and processing the data, I was able to get a more accurate and insightful understanding of the road accident data. This will help me to identify patterns and trends in the data, and to develop strategies for preventing road accidents in the future.
+These steps were essential to making the data ready for analysis. By cleaning and processing the data, I was able to get a more accurate and insightful understanding of the road accident data. This will help me to identify patterns and trends in the data and to develop strategies for preventing road accidents in the future.
 
 
 ◯ Important Excel features used in this dashboard are: 
@@ -72,6 +75,8 @@ These steps were essential to making the data ready for analysis. By cleaning an
 
 🔘Linking: The dashboard is linked to the datasheet, which means that any changes made to the datasheet will be reflected in the dashboard. This makes it easy to keep the dashboard up-to-date with the latest data.
 
+
+Final Dataset : https://drive.google.com/file/d/1hLwKZqRRV7_wdMV-66nCfpnngZ1kW3RW/view
 
 ◯ KEY INSIGHTS
 By analyzing this dataset I discovered:
